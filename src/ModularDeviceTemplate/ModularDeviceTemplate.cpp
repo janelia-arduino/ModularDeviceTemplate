@@ -19,6 +19,9 @@ void ModularDeviceTemplate::setup()
   // Parent Setup
   Parent::setup();
 
+  // Reset Watchdog
+  resetWatchdog();
+
   // Variable Setup
 
   // Set Device ID
