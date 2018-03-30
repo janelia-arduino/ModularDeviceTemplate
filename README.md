@@ -22,7 +22,7 @@ License:
 
 [modular_device_base](https://github.com/janelia-modular-devices/modular_device_base.git)
 
-[parent](https://github.com/janelia-modular-devices/parent.git)
+[device](https://github.com/janelia-modular-devices/device.git)
 
 ## API NAMES
 
