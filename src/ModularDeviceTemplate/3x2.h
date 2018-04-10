@@ -16,7 +16,7 @@ namespace modular_device_template
 {
 namespace constants
 {
-// Interrupts
+// Pins
 
 // Units
 
