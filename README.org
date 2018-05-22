@@ -3,24 +3,16 @@
 #+EMAIL: peterpolidoro@gmail.com
 
 * Library Information
-  - Author :: Peter Polidoro
+  - Name :: ModularDeviceTemplate
+  - Version :: 1.0.0
   - License :: BSD
+  - URL :: https://github.com/janelia-arduino/ModularDeviceTemplate
+  - Author :: Peter Polidoro
+  - Email :: peterpolidoro@gmail.com
 
-* Ancestors
+** Description
 
-  [[https://github.com/janelia-arduino/ModularServer][ModularServer]]
-
-  [[https://github.com/janelia-arduino/ModularDeviceBase][ModularDeviceBase]]
-
-  [[https://github.com/janelia-arduino/Parent][Parent]]
-
-* Clients
-
-* Devices
-
-  [[https://github.com/janelia-modular-devices/modular_device_base.git][modular_device_base]]
-
-  [[https://github.com/janelia-modular-devices/device.git][device]]
+   Modular device template library.
 
 * API NAMES
 
@@ -29,12 +21,28 @@
 
 * API GENERAL
 
-  [[./api/][API GENERAL]]
+  [[./api/]]
+
+* Ancestors
+
+  [[https://github.com/janelia-arduino/ModularServer]]
+
+  [[https://github.com/janelia-arduino/ModularDeviceBase]]
+
+  [[https://github.com/janelia-arduino/Parent]]
+
+* Clients
+
+* Devices
+
+  [[https://github.com/janelia-modular-devices/modular_device_base.git]]
+
+  [[https://github.com/janelia-modular-devices/device.git]]
 
 * More Detailed Modular Device Information
 
-  [[https://github.com/janelia-modular-devices/modular-devices][modular-devices]]
+  [[https://github.com/janelia-modular-devices/modular-devices]]
 
-* Library Dependencies
+* Installation Instructions
 
-  [[https://github.com/janelia-arduino/arduino-libraries][arduino-libraries]]
+  [[https://github.com/janelia-arduino/arduino-libraries]]
