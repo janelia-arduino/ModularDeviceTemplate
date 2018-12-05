@@ -12,7 +12,7 @@
 
 ** Description
 
-   Modular device template library.
+   Modular device modular_device_template library.
 
 * API NAMES
 
@@ -37,7 +37,9 @@
 
   [[https://github.com/janelia-modular-devices/modular_device_base]]
 
-  [[https://github.com/janelia-modular-devices/device]]
+  [[https://github.com/janelia-modular-devices/parent]]
+
+  [[https://github.com/janelia-modular-devices/modular_device_template]]
 
 * More Detailed Modular Device Information
 
